@@ -1,5 +1,3 @@
-# Jafar Mourad
-
 Graduando em Engenharia de Controle e Automação pelo IFSP (Câmpus Salto), com foco em desenvolvimento de software em Python, análise de dados, cibersegurança e aplicações práticas de Inteligência Artificial.
 
 Atualmente dedico meus estudos à integração de modelos de linguagem (LLMs) via API, construção de pipelines de dados e detecção de anomalias em redes e sistemas industriais.
